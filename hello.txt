@@ -7,5 +7,4 @@ hello world hello shanghai hello zhongguo
 hello world hello shanghai hello zhongguo
 hello world hello shanghai hello zhongguo
 hello world hello shanghai hello zhongguo
-hello world hello shanghai hello zhongguo
-
+hello world hello shanghai hello zhongguo from hot-fix modified commit
